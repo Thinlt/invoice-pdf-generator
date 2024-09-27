@@ -1,0 +1,11 @@
+**/.DS_Store
+**/.idea
+**/.vscode
+**/.env.*
+!**/.env.example
+**/.docker
+**/docker-compose*.y*ml
+**/yarn-error.log
+**/paged.polyfill.js
+**/node_modules
+**/chrom*
