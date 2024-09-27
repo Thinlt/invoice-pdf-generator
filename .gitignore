@@ -2,6 +2,7 @@
 **/.idea
 **/.vscode
 **/.env.*
+!**/.env.builder
 !**/.env.example
 **/.docker
 **/docker-compose*.y*ml
