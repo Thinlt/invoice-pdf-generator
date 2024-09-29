@@ -43,6 +43,6 @@ test:
 
 # Run application
 run:
-	@echo "Running application..."
+	@echo "Running testing application..."
 	$(VENV_PYTHON) run.py
-	@echo "Application completed."
+	@echo "Test application completed."
